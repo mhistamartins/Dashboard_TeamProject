@@ -1,0 +1,6 @@
+/Users/aboycandream/Desktop/Dashboard_TeamPro/build/CMakeFiles/server.dir
+/Users/aboycandream/Desktop/Dashboard_TeamPro/build/CMakeFiles/client.dir
+/Users/aboycandream/Desktop/Dashboard_TeamPro/build/CMakeFiles/upload_client.dir
+/Users/aboycandream/Desktop/Dashboard_TeamPro/build/CMakeFiles/upload_server.dir
+/Users/aboycandream/Desktop/Dashboard_TeamPro/build/CMakeFiles/edit_cache.dir
+/Users/aboycandream/Desktop/Dashboard_TeamPro/build/CMakeFiles/rebuild_cache.dir
