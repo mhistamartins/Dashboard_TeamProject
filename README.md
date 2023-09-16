@@ -71,10 +71,10 @@
 # Contributors:
 
 - [GabeLegendary](https://github.com/gabelegendary)
-- [HomajonB]([https://github.com/johndoe](https://github.com/HomajonB))
-- [nkkyviv]([https://github.com/janesmith](https://github.com/nkkyviv))
-- [Vishnugundu]([https://github.com/yourname](https://github.com/vishnugundu))
-- [mhistamartins]([https://github.com/yourname](https://github.com/mhistamartins)https://github.com/mhistamartins)
+- [HomajonB](https://github.com/HomajonB)
+- [nkkyviv](https://github.com/nkkyviv)
+- [Vishnugundu](https://github.com/vishnugundu)
+- [mhistamartins](https://github.com/mhistamartins)
 
 
 # Demo
