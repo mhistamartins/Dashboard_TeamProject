@@ -1,14 +1,13 @@
-# Table of contents
-
-- 1.0  [Requirements](https://github.com/mhistamartins/Dashboard_TeamProject/edit/master/README.md#requirements)
-- 1.1  [Server GUI](https://github.com/mhistamartins/Dashboard_TeamProject/edit/master/README.md#requirements)
-- 1.2  [Client GUI](https://github.com/mhistamartins/Dashboard_TeamProject/edit/master/README.md#on-the-server-gui-there-shall-be)
-- 2.0  [](https://github.com/mhistamartins/Dashboard_TeamProject/edit/master/README.md#table-of-contents)
-- 3.0  []()
-- 4.0  []()
-- 5.0  []()
-- 6.0  []()
-- 7.0  []()
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Requirements](#Requirements)
+3. [Project Overview](#project-overview)
+4. [Tools and Technologies](#Tools-and-Technologies)
+5. [Project Architecture](Project-Architecture)
+6. [Challenges](#challenges)
+7. [Lessons Learned](#lessons-learned)
+8. [Demo](#demo)
+9. [Questions?](#questions)
 
 
 # Requirements
@@ -33,12 +32,12 @@
 - if there is a problem in the communication between client and server.
 
   
-# Project overview
+# Project-overview
 
 ![Image 2023-09-13 at 10 07](https://github.com/mhistamartins/Dashboard_TeamProject/assets/113973388/91702a55-7b0b-4509-aa5a-b5cb8ef53c6f)
 
 
-# Tools and Technologies
+# Tools-and-Technologies
 
 - Version control system / Continuous Integration = Git/Github
 > This was used to track changes and collaborate on software development
@@ -52,7 +51,7 @@
 > Platformio is an open-source ecosystem for cross-platform development in embedded systems for easier project management for microcontrollers.
 
 
-# Project Architecture
+# Project-Architecture
 
 ![IMG_6267](https://github.com/mhistamartins/Dashboard_TeamProject/assets/113973388/546fc08e-04b4-4af1-ad21-03fd977704a9)
 
