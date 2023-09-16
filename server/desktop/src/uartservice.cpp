@@ -8,7 +8,7 @@ void UARTService::run(void)
     QSerialPort serial;
 
     serial.setBaudRate(Setting::UART::BAUDRATE);
-    serial.setPortName(Setting::UART::PORTS);
+    serial.setPortName(Setting::UART::PORT);
     serial.setParity(QSerialPort::Parity::NoParity);
     serial.setDataBits(QSerialPort::DataBits::Data8);
     serial.setStopBits(QSerialPort::StopBits::OneStop);

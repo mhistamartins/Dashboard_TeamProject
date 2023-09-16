@@ -67,7 +67,6 @@ namespace Setting
     {
         constexpr int BAUDRATE{115200};
         constexpr char PORT[]{"/dev/cu.usbserial-110"};
-        constexpr char PORTS[]{"/dev/cu.usbserial-120"};
     }
 #else
     namespace TCP
