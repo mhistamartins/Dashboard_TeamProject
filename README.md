@@ -1,14 +1,15 @@
 ## Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#Introduction)
 2. [Requirements](#Requirements)
-3. [Project Overview](#project-overview)
+3. [Project Overview](#Project-overview)
 4. [Tools and Technologies](#Tools-and-Technologies)
 5. [Project Architecture](Project-Architecture)
-6. [Challenges](#challenges)
-7. [Lessons Learned](#lessons-learned)
-8. [Demo](#demo)
-9. [Questions?](#questions)
+6. [Challenges](#Challenges)
+8. [Contributors](#Contributors)
+9. [Building the project](#Building-the-project)
 
+# Introduction
+Welcome to Dashboard_Pro v1.0 – a collaborative effort by yours truly(ME) and my amazing team members. In this project, I'll take you on a journey through our innovative creation that showcases our technical skills, creativity, problem-solving and dedication. We invite you to explore how we leveraged technology and teamwork to bring this project to life. Enjoy your flight!!!!!
 
 # Requirements
 
@@ -67,7 +68,7 @@
 - Learning Curve: Learning new tools, frameworks (like Qt), and some technologies during the project was time-intensive and it temporarily slowed down development.
 
 
-# Contributors:
+# Contributors
 
 - [GabeLegendary](https://github.com/gabelegendary)
 - [HomajonB](https://github.com/HomajonB)
@@ -76,7 +77,13 @@
 - [mhistamartins](https://github.com/mhistamartins)
 
 
-# Demo
+# Building-the-project
+## To compile and run the client and server applications on the desktop:
+- ```mkdir build && cd build```
+- ```cmake .. && make && ./server & ./client```
+
+- Note: By default, the TCP communication protocol(communication over network) is used. If you want to switch to the UART communication protocol, modify the CMakeLists.txt:ln 7:
+- ```set(USE_UART OFF)``` #Change the OFF to ON 
 
 
 
