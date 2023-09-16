@@ -35,7 +35,7 @@ Welcome to Dashboard_Pro v1.0 – a collaborative effort by yours truly(ME) and 
   
 # Project-overview
 
-![Image 2023-09-13 at 10 07](https://github.com/mhistamartins/Dashboard_TeamProject/assets/113973388/91702a55-7b0b-4509-aa5a-b5cb8ef53c6f)
+![Screenshot 2023-09-16 at 13 29 21](https://github.com/mhistamartins/Dashboard_TeamProject/assets/113973388/14566f75-20c1-4d4d-aaa7-3b66dd648fa4)
 
 
 # Tools-and-Technologies
